@@ -22,4 +22,4 @@ edit          'hostname' => 'your localhost',
               'username' => 'root',
 	'password' => ''
 <hr>
-# Related
+# API REST interfaces
