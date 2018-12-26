@@ -86,6 +86,8 @@ pro_id:[{"pro_id":"1"},{"pro_id":"4"},{"pro_id":"25"}] <br />
 ### Method: POST
 Prams pro_id takes a JSON string as parameter (Ex.pro_id:”[{"pro_id":"1"},{"pro_id":"4"},{"pro_id":"25"}]“)
 
+![bundle](https://user-images.githubusercontent.com/34945950/50458189-4edf4200-0987-11e9-971e-23411091a71b.JPG)
+
 
 
 
