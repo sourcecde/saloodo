@@ -23,3 +23,4 @@ edit          'hostname' => 'your localhost',
 	'password' => ''
 <hr>
 # API REST interfaces
+<hr>
