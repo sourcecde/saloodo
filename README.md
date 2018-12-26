@@ -64,5 +64,16 @@ http://localhost/saloodo/index.php/api/products/allProductList
 
 ### Method: GET
 
+## Create user:
+http://localhost/saloodo/index.php/api/products/createusers
+
+### Params
+usr_name:debraj <br />
+usr_password:debraj1987 (md5 generated value insert into DB) <br />
+usr_group:3 <br />
+Usr_group should be 1 or 3 .1 for admin and 3 for customers <br />
+### Method: POST
+
+
 
 
