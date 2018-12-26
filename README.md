@@ -88,6 +88,20 @@ Prams pro_id takes a JSON string as parameter (Ex.pro_id:”[{"pro_id":"1"},{"pr
 
 ![bundle](https://user-images.githubusercontent.com/34945950/50458189-4edf4200-0987-11e9-971e-23411091a71b.JPG)
 
+## Get the list of products and respective prices for customers
+
+http://localhost/saloodo/index.php/api/products/customerProductList
+
+### Method: GET
+
+### Place order
+
+http://localhost/saloodo/index.php/api/products/orderItem
+
+### Params
+user_id:6 <br />
+pro_id:[{"pro_id":"1","qty":"2"},{"pro_id":"4","qty":"2"}] <br />
+## Method : POST
 
 
 
