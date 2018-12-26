@@ -23,3 +23,18 @@ edit          'hostname' => 'your localhost',
 	'password' => ''
 
 # API REST interfaces
+
+## Add Product:
+URL: http://localhost/saloodo/index.php/api/products/createproduct
+### Params:
+pro_name:hjgj
+pro_title:hjhj
+pro_description:kkh
+pro_price:787
+pro_stock:5
+pro_discount:65
+Pro_discount_type:concrete
+
+Pro_discount_type should be concrete/percentage
+### Method: POST
+
