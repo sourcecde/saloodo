@@ -24,3 +24,7 @@ edit          'hostname' => 'your localhost',
 <hr>
 # API REST interfaces
 <hr>
+
+# has h
+## has2
+### has344
