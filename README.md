@@ -74,6 +74,20 @@ usr_group:3 <br />
 Usr_group should be 1 or 3 .1 for admin and 3 for customers <br />
 ### Method: POST
 
+## Bundle product
+http://localhost/saloodo/index.php/api/products/bundleProduct
+
+### Params
+name:suvambasak <br />
+price:108 <br />
+stock:3 <br />
+pro_id:[{"pro_id":"1"},{"pro_id":"4"},{"pro_id":"25"}] <br />
+
+### Method: POST
+Prams pro_id takes a JSON string as parameter (Ex.pro_id:”[{"pro_id":"1"},{"pro_id":"4"},{"pro_id":"25"}]“)
+
+
+
 
 
 
