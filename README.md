@@ -21,10 +21,5 @@ application => config = > database.php
 edit          'hostname' => 'your localhost',
               'username' => 'root',
 	'password' => ''
-<hr>
-# API REST interfaces
-<hr>
 
-# has h
-## has2
-### has344
+# API REST interfaces
