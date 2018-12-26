@@ -53,4 +53,16 @@ Pro_discount_type:concrete <br />
 Pro_discount_type should be concrete/percentage
 ### Method: POST
 
+## Delete Product: 
+http://localhost/saloodo/index.php/api/products/product_delete/ {id}
+
+### Method: DELETE
+
+
+## Get All Product:
+http://localhost/saloodo/index.php/api/products/allProductList
+
+### Method: GET
+
+
 
