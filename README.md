@@ -38,3 +38,19 @@ Pro_discount_type:concrete <br />
 Pro_discount_type should be concrete/percentage <br />
 ### Method: POST
 
+## Update Product: 
+http://localhost/saloodo/index.php/api/products/product_update/ {id}
+
+### Params:
+pro_name:LG TV <br />
+pro_title:TV <br />
+pro_description:Ne Gen Television <br />
+pro_price:787 <br />
+pro_stock:5 <br />
+pro_discount:65 <br />
+Pro_discount_type:concrete <br />
+
+Pro_discount_type should be concrete/percentage
+### Method: POST
+
+
