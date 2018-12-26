@@ -102,6 +102,8 @@ http://localhost/saloodo/index.php/api/products/orderItem
 user_id:6 <br />
 pro_id:[{"pro_id":"1","qty":"2"},{"pro_id":"4","qty":"2"}] <br />
 ## Method : POST
+![orderplace](https://user-images.githubusercontent.com/34945950/50458318-3ae81000-0988-11e9-80d9-3f0c9cbcdd52.JPG)
+
 
 
 
