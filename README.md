@@ -27,14 +27,14 @@ edit          'hostname' => 'your localhost',
 ## Add Product:
 URL: http://localhost/saloodo/index.php/api/products/createproduct
 ### Params:
-pro_name:hjgj
-pro_title:hjhj
-pro_description:kkh
-pro_price:787
-pro_stock:5
-pro_discount:65
-Pro_discount_type:concrete
+pro_name:Dell Laptop <br />
+pro_title:Computer  <br />
+pro_description:Dell Laptop with bags <br />
+pro_price:500 <br />
+pro_stock:5 <br />
+pro_discount:50 <br />
+Pro_discount_type:concrete <br />
 
-Pro_discount_type should be concrete/percentage
+Pro_discount_type should be concrete/percentage <br />
 ### Method: POST
 
